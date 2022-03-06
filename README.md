@@ -17,6 +17,8 @@ These are primarily motivated by my own requirements, but are also inspired by m
 
 To borrow some famous last words: they should be open sourced soon.
 
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=masoncusack&show_icons=true&theme=radical)
+
 ## 🤡 Play (things I wish I had more time for)
 
 🎸 Music was my first love. I'm a mediocre but enthusiastic guitar player, and have been playing with varying consistency since I started taking lessons somewhere around 12 years old. Recently, I started taking lessons again and can't get enough of it.
