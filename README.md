@@ -4,7 +4,7 @@ I'm a Senior Software Engineer based in London, UK, currently working on applied
 
 ## 👨🏻‍💻 Work
 
-At the time you're reading this, I work on search personalisation at [ASOS](https://asos.com): one of Europe's biggest online fashion retailers. With [these fine people](https://www.youtube.com/watch?v=MoOfBPPvBmk), no less.
+At the time you're reading this, I work on personalisation (that's search and recommendations) at [ASOS](https://asos.com): one of Europe's biggest online fashion retailers. With [these fine people](https://www.youtube.com/watch?v=MoOfBPPvBmk), no less.
 
 Before that I worked at [Microsoft](https://microsoft.com), embedding with companies and governments around the world to help them bootstrap and scale data science projects using [Azure](https://azure.com) to their advantage.
 
