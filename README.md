@@ -8,7 +8,7 @@ At the time you're reading this, I work on personalisation (that's search and re
 
 Before that I worked at [Microsoft](https://microsoft.com), embedding with companies and governments around the world to help them bootstrap and scale data science projects using [Azure](https://azure.com) to their advantage.
 
-As for my work on GitHub, I'm currently working on some ML development tools and learning to build cross-platform apps with JavaScript and TypeScript.
+As for my work on GitHub, I'm currently learning to repeatably build interesting web apps with [React](https://reactjs.org/), [Node.js](https://nodejs.org/en/), [Supabase](https://supabase.com/) and [Stripe](https://stripe.com).
 
 I like to build real world, scalable products with measurable impact - particularly if this involves using both my data science and traditional software engineering skills. A [big company](https://microsoft.com) once employed me as an Applied Scientist. 🧙‍♂️
 
