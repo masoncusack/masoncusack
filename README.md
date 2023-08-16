@@ -1,6 +1,6 @@
 # Hi, I'm Mason! 👋
 
-I'm a Senior Software Engineer based in London, UK, with experience in cloud software development - primarily applied AI.
+I'm a Senior Software Engineer with experience in cloud software development - primarily applied AI.
 
 ## 👨🏻‍💻 Work
 
