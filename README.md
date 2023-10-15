@@ -4,7 +4,7 @@ I'm a Senior Software Engineer with experience in cloud software development - p
 
 ## 👨🏻‍💻 Work
 
-I currently live in [Taipei, Taiwan](https://www.youtube.com/watch?v=z_fY1pj1VBw), where I'm learning Mandarin Chinese and developing a new SaaS product.
+I'm currently in [Taipei, Taiwan](https://www.youtube.com/watch?v=z_fY1pj1VBw), where I'm learning Mandarin Chinese and developing a new SaaS product.
 
 In my last job I worked on personalisation (that's search and recommendations) at [ASOS](https://asos.com): one of Europe's biggest online retailers, with [these fine people](https://www.youtube.com/watch?v=MoOfBPPvBmk).
 
