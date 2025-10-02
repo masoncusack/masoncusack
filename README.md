@@ -1,6 +1,6 @@
 # Hi! I'm Mason 👋
 
-I'm a Senior Software Engineer with experience in cloud software development - primarily applied AI.
+I'm a Principal Software Engineer with experience in cloud software development - primarily applied AI.
 
 Check out my work history [here](https://masoncusack.github.io).
 
